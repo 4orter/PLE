@@ -1,0 +1,13 @@
+# Mac
+.DS_Store
+
+# Files
+main
+Cargo.lock
+
+# Folders
+target
+
+# Editors
+.idea
+.vscode
