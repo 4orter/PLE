@@ -19,5 +19,4 @@ class Student
 end
 
 student1 = Student.new("James", "Computer Science", 3.5)
-
 puts (student1.name + " has honors: " + student1.has_honors.to_s)
